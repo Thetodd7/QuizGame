@@ -1,11 +1,6 @@
   ### Quiz Game [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
- Screenshot
-
-![Screen Shot 2021-08-18 at 10 38 27 PM](https://user-images.githubusercontent.com/85806673/129998794-98a16e7f-a9ba-490b-9f06-5fe1d51fc5ca.jpg)
-
-
   ## Description
   
   
@@ -20,6 +15,7 @@
   
  
   ## Usage
+  ![Screen Shot 2021-08-18 at 10 38 27 PM](https://user-images.githubusercontent.com/85806673/129998794-98a16e7f-a9ba-490b-9f06-5fe1d51fc5ca.jpg)
 
 
   ## Installation
