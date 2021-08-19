@@ -11,32 +11,30 @@
 </head>
 
 <body>
-   <div class="scores"><a href="highscores.html"> View highscores </a></div>
+   <div class="scores inline"><a href="highscores.html"> View highscores </a></div>
 
-   <div class="timer"> Time: <span id="time">0</span></div>
+   <div class="timer inline right"> Time: <span id="time">0</span></div>
 
    <div class="wrapper">
-      <div id="start-screen" class="start">
-        
-         
-            <img src="./himym_title.jpeg" alt="How I Met Your Mother Picture"/>
-            <h1>Quiz</h1>
-            <p>
+      <div id="start-screen" class="start center">
+         <img src="./himym_title.jpeg" alt="How I Met Your Mother Picture" />
+         <h1>Quiz</h1>
+         <p>
             If you are a true fan ! Try answering all the following question
             within the time limit.
             Every incorrect answer will penalize your score and time by ten seconds.
          </p>
-         
+
          <button id="start">Start Quiz</button>
       </div>
 
       <div id="questions" class="hide">
          <h2 id="question-title"></h2>
          <div id="choices" class="choices"></div>
-         
+
       </div>
 
-      <div id="end-screen" class="hide">
+      <div id="end-screen" class="hide ">
          <h2>All done!</h2>
          <p>Your final score is <span id="final-scores"></span>.</p>
          <p>
@@ -53,5 +51,14 @@
    <script src="Assets/js/logic.js"></script>
 
 </body>
+
+
+
+
+
+
+
+
+
 
 </html>
