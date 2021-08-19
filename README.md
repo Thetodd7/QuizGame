@@ -8,7 +8,7 @@
   * [Description](#Description)
   * [Usage](#Usage)
   * [Installation](#Installation)
-  * [Tests](#Tests)
+ 
   * [License](#License)
   * [Contributions](#Contributions/Questions)
   
